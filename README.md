@@ -33,3 +33,7 @@ clone this project
 to explore the database use application.yml details and url :) http://localhost:8080/h2-console
 
 testdata.sql has test data which we need to run in our H2 DB and we will have different data sets and then once we hit the endpoint with appropriate customer-id we will get required reward-points.
+H2 DB having several customers details Screenshot:
+
+![image](https://github.com/sailesh2155/customer-retail-rewards/assets/76978528/d144b259-9eaf-4bca-bf8c-f58572398e34)
+

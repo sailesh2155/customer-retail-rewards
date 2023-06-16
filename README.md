@@ -3,6 +3,7 @@ Retailer rewards for Customer
 Exposed EndPoint:- http://localhost:8080/customers/{customerId}/reward-points (get call)
 This endpoint will give reward-points of customer monthly as well as total reward points.
 screenshot:- ![image](https://github.com/sailesh2155/customer-retail-rewards/assets/76978528/0810f1ad-aa33-438f-a40a-3410bf9ffd4d)
+
 Sample response:-
 {
     "FEBRUARY": 60,
@@ -11,15 +12,11 @@ Sample response:-
     "total": 670
 }
 
-
 NFR
 
 java - 17
-
 Springboot - 3.0.6
-
 h2 database - 1.4.2
-
 actuator
 
 LOCAL SETUP

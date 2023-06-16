@@ -15,15 +15,21 @@ Sample response:-
 NFR
 
 java - 17
+
 Springboot - 3.0.6
+
 h2 database - 1.4.2
+
 actuator
 
 LOCAL SETUP
 
 setup Java and maven
+
 setup intellij
+
 clone this project
+
 to explore the database use application.yml details and url :) http://localhost:8080/h2-console
 
 testdata.sql has test data which we need to run in our H2 DB and we will have different data sets and then once we hit the endpoint with appropriate customer-id we will get required reward-points.

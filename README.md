@@ -12,7 +12,7 @@ Sample response:-
     "total": 670
 }
 
-NFR
+NFR:-
 
 java - 17
 
@@ -22,7 +22,7 @@ h2 database - 1.4.2
 
 actuator
 
-LOCAL SETUP
+LOCAL SETUP:-
 
 setup Java and maven
 

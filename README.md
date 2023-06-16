@@ -11,11 +11,15 @@ Sample response:-
     "total": 670
 }
 
+
 NFR
 
 java - 17
+
 Springboot - 3.0.6
+
 h2 database - 1.4.2
+
 actuator
 
 LOCAL SETUP
